@@ -1,20 +1,89 @@
 {
-  "users": [
+  "users": [],
+  "categories": [],
+  "campaigns": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe",
-      "active": true,
-      "posts": 10,
-      "messages": 50
+      "title": "Đây là title",
+      "short_description": "Đây là short description",
+      "goal": "1000",
+      "amount": "500",
+      "Amount Prefilled": "10",
+      "video": "đây là video",
+      "category": "architecture",
+      "country": "Vietnam",
+      "content": "<p><br></p>",
+      "StartDate": "2022-09-14T17:00:00.000Z",
+      "EndDate": "2022-09-30T09:13:11.385Z",
+      "id": 1
     },
     {
-      "id": 8,
-      "firstName": "Clay",
-      "lastName": "Chung",
-      "active": true,
-      "posts": 8,
-      "messages": 5
+      "title": "đây là title",
+      "short_description": "đây là desc",
+      "goal": "100",
+      "amount": "80",
+      "Amount Prefilled": "10",
+      "video": "đây là vid",
+      "category": "architecture",
+      "country": "Vietnam",
+      "content": "<p><br></p>",
+      "StartDate": "2022-08-28T17:00:00.000Z",
+      "EndDate": "2022-09-30T09:23:17.762Z",
+      "id": 2
+    },
+    {
+      "title": "Đây là title",
+      "short_description": "đây là short desc",
+      "goal": "100",
+      "amount": "50",
+      "Amount Prefilled": "9",
+      "video": "đậy là vid",
+      "category": "architecture",
+      "": {
+        "medium": "https://i.ibb.co/NFyV1gm/Khu-ru-ng-mo-ng-mo-23.jpg",
+        "thumb": "https://i.ibb.co/HKHFNLx/Khu-ru-ng-mo-ng-mo-23.jpg",
+        "url": "https://i.ibb.co/QJKb87C/Khu-ru-ng-mo-ng-mo-23.jpg"
+      },
+      "country": "Peru",
+      "content": "",
+      "StartDate": "2022-09-30T10:40:06.509Z",
+      "EndDate": "2022-09-30T10:40:06.509Z",
+      "id": 3
+    },
+    {
+      "title": "",
+      "short_description": "",
+      "goal": "",
+      "amount": "",
+      "Amount Prefilled": "",
+      "video": "",
+      "content": "",
+      "StartDate": "2022-09-30T10:46:42.408Z",
+      "EndDate": "2022-09-30T10:46:42.408Z",
+      "id": 4
+    },
+    {
+      "title": "",
+      "short_description": "",
+      "goal": "",
+      "amount": "",
+      "Amount Prefilled": "",
+      "video": "",
+      "content": "",
+      "StartDate": "2022-09-30T10:46:52.151Z",
+      "EndDate": "2022-09-30T10:46:52.151Z",
+      "id": 5
+    },
+    {
+      "title": "",
+      "short_description": "",
+      "goal": "",
+      "amount": "",
+      "Amount Prefilled": "",
+      "video": "",
+      "content": "",
+      "StartDate": "2022-09-30T10:47:29.874Z",
+      "EndDate": "2022-09-30T10:47:29.874Z",
+      "id": 6
     }
   ]
 }
